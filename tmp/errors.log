@@ -1,0 +1,6 @@
+[07-Mar-2019 10:57:30 Europe/Berlin] Rounding error -0.01 encountered for trans_type:10,trans_no:5
+[07-Mar-2019 11:05:48 Europe/Berlin] 0:admin:packages.inc:104: rmdir(../modules/rep_cheque_print): Directory not empty
+[07-Mar-2019 11:05:48 Europe/Berlin] 0:admin:packages.inc:434: rmdir(../modules/_cache/rep_cheque_print-2.4.0-1): Directory not empty
+[07-Mar-2019 11:13:27 Europe/Berlin] 0:admin:packages.inc:434: rmdir(../modules/_cache/osc_orders-2.4.0-3): Directory not empty
+[07-Mar-2019 11:33:45 Europe/Berlin] 0:admin:packages.inc:104: rmdir(../modules/import_multijournalentries): Directory not empty
+[07-Mar-2019 11:33:45 Europe/Berlin] 0:admin:packages.inc:434: rmdir(../modules/_cache/import_multijournalentries-2.4.0-3): Directory not empty
